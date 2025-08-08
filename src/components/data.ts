@@ -64,7 +64,7 @@ export const skillsData: ISkillsDataProps[] = [
     title: 'Jira',
   },
   {
-    id: 13,
+    id: 14,
     title: 'ClickUp',
   },
 ];
