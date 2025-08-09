@@ -98,4 +98,11 @@ export const projectsData: IProjectsDataProps[] = [
       'A simple homepage and detail page of company website, built with React JS and deployed by using Firebase.',
     link: 'https://frontend-dev-test-triasse.web.app/',
   },
+  {
+    id: 5,
+    title: 'Landing Page Trans 7',
+    description:
+      'A simple landing page with parallax effect, built with React & Next.js and deployed by using Vercel.',
+    link: 'https://landing-page-trans7.vercel.app/',
+  },
 ];
